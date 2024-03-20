@@ -1,0 +1,1 @@
+//this tutorial we are going to learn about comments in typescript.
